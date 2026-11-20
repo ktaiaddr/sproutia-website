@@ -13,6 +13,8 @@ sproutia-website/
 ├── index.html          # トップページ
 ├── privacy/
 │   └── index.html      # プライバシーポリシー (https://sproutia.jp/privacy/)
+├── terms/
+│   └── index.html      # 利用規約 (https://sproutia.jp/terms/)
 └── README.md
 ```
 
